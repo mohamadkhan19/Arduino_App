@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Arduino_App</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_buy_product">BuyProduct</string>
+</resources>
